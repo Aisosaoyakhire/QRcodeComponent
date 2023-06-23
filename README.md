@@ -1,0 +1,2 @@
+# QRcodeComponent
+Solution using flexbox 
